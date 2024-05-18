@@ -63,6 +63,11 @@ This task requires you to create a dashboard in Power BI that displays all the r
 -  Agent’s performance quadrant -> average handle time (talk duration) vs calls answered: This KPI measures the performance of agents in terms of the average handle time of calls versus the number of calls answered.
 
 ## Task 2: Customer Retention
+![welcome to phonenow](https://github.com/mdilshad7478/PWC---Virtual-Internship-/assets/157358118/1a55e7fb-fb07-49b5-86c0-29776613c9f6)
+
+![Churn Dashboard](https://github.com/mdilshad7478/PWC---Virtual-Internship-/assets/157358118/6e339541-7a62-4a8b-bac1-b68585310ba0)
+
+![Customser Risk Analysis](https://github.com/mdilshad7478/PWC---Virtual-Internship-/assets/157358118/b7380f54-1bb3-4d5f-a9f4-7b407d67a352)
 
 Extracted customer demographics and insights for the retention manager reflecting the KPIs.
 

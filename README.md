@@ -49,6 +49,7 @@ Call Center trends dataset which has 10 columns and 5000 rows of observation.
 Each of the columns in the table were validated to have the correct data type
 
 ## Task 1 - Call Centre Trends
+![PWC - Call Centre Trends](https://github.com/mdilshad7478/PWC---Virtual-Internship-/assets/157358118/6d2f3f10-e265-4b14-a7e8-ae4abaec8175)
 
 
   

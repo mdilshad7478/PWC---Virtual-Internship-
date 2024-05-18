@@ -1,4 +1,4 @@
-# PWC---Virtual-Internship
+# PWC - Power BI Project
 Power BI Job Simulation Virtual Internship
 This repository showcases the tasks and results from the PwC Switzerland PowerBI Virtual Case Experience, developed by Forage. The virtual internship simulates work in the Digital Accelerator team at PwC Switzerland, using Power BI. There were three tasks to analyze and visualize the data to help client providing meaningful insights. 
 

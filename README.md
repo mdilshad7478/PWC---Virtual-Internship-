@@ -49,7 +49,33 @@ Call Center trends dataset which has 10 columns and 5000 rows of observation.
 Each of the columns in the table were validated to have the correct data type
 
 ## Task 1 - Call Centre Trends
+
 ![PWC - Call Centre Trends](https://github.com/mdilshad7478/PWC---Virtual-Internship-/assets/157358118/6d2f3f10-e265-4b14-a7e8-ae4abaec8175)
+
+Created a dashboard in Power BI that reflects all relevant Key Performance Indicators (KPIs) and metrics related to call center trends.
+
+This task requires you to create a dashboard in Power BI that displays all the relevant KPIs and metrics related to call center trends. Possible KPIs include:
+
+- Overall customer satisfaction: This KPI measures the satisfaction level of customers who contacted the call center for support.
+- Overall calls answered/abandoned: This KPI measures the number of calls answered by agents versus the number of calls abandoned by customers.
+- Calls by time: This KPI measures the volume of calls during different times of the day, week, or month.
+-  Average speed of answer: This KPI measures the average time taken by agents to answer customer calls.
+-  Agent’s performance quadrant -> average handle time (talk duration) vs calls answered: This KPI measures the performance of agents in terms of the average handle time of calls versus the number of calls answered.
+
+## Task 2: Customer Retention
+
+Extracted customer demographics and insights for the retention manager reflecting the KPIs.
+
+Define proper KPIs:
+
+This task requires you to define the appropriate KPIs for the retention manager based on the dataset. Created a dashboard for the retention manager reflecting the KPIs:
+
+This task requires you to create a dashboard that displays the defined KPIs for the retention manager to track the customer retention rate. Write a short email to him (the engagement partner) explaining your findings, and include suggestions as to what needs to be changed:
+
+This task requires you to write an email to the engagement partner, explaining the findings from the dashboard and providing suggestions on what needs to be changed to improve customer retention.
+
+
+
 
 
   
